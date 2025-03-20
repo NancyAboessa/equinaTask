@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
           return  const MaterialApp(
             debugShowCheckedModeBanner: false,
             title: 'Nancy Aboessa',
-            home: AuthScreen(),
+            home: ProfileScreen(),
           );
         });
   }

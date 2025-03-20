@@ -13,9 +13,9 @@ class ProfileScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[200],
+      backgroundColor: Colors.red,
       appBar: AppBar(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.blue,
         elevation: 0.2,
         toolbarHeight: 60.h,
         leading: IconButton(
